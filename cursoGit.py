@@ -1,2 +1,2 @@
-print (" new hello git")
+print (" new hello github")
 print ("")
